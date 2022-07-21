@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Bisht
-- 👀 I’m interested in developing applications and also a DataScience Enthusiast.
-- 🌱 I’m currently learning webdevelopment.
+- 👀 I’m interested in developing applications.
+- 🌱 I’m currently learning ios development.
 
 
 <!---
